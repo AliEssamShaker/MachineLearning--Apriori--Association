@@ -2,7 +2,7 @@
 Applying Apriori on a Real world dataset of customers purchasing groceries.
 
 
-Association Rule Learning :
+Association Rule Learning(unsupervised learning) :
 
 Apriori:-
 
